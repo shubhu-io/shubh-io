@@ -1,14 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shubham</h1>
-<h3 align="center">A passionate software developer from India</h3>
-
-- 🔭 I’m currently working on **A personal website**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<h1 align="center">Hi 👋, I'm Shubham</h1>
+h1 align="center">Hi 👋, I'm Shubham</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhu-io&label=Profile%20views&color=0e75b6&style=flat" alt="shubhu-io" /> </p>
